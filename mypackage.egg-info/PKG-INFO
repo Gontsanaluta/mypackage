@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: http://github.com/<username>/<package-name>
+Author: <Your Name>
+License: MIT
+Platform: UNKNOWN
+
+# mypackage
+This library was created as an example of how publish your own python packages
+
+# How to install
+...
+
